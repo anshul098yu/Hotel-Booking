@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏨 Hotel Booking Management System
 
 A full-featured **Hotel Booking Management System** built with the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) that allows users to book hotel rooms, view recent searches, and manage their bookings. Hotel owners can register hotels, upload room details with images, and manage availability.
@@ -81,3 +82,7 @@ CLERK_API_KEY=your_clerk_key   # Optional
 
 
 
+=======
+# Hotel-Booking
+Building an ultimate website for booking hotels
+>>>>>>> c7550fa26aabae43f5014fec5cf30f19c5a72c8d
